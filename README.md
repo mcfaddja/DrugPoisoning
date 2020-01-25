@@ -1,3 +1,5 @@
 # Drug Poisioning Data Analysis
 
-more to come
+Plan(s)
+* Conduct some time-series analysis to see how this data is playing out over time
+
